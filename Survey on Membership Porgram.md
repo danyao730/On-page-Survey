@@ -21,10 +21,51 @@ Before designing the questionnare, there are 4 points to follow:
 
 Based on the demo data sheet, I set up my own basic information architecture.
 
-### Information Architecture
+## Information Architecture
+
+There are 5 major parts in the architecture: Welcome Screen, Basic Questions, Relevant Questions, Feedback, Reward Screen
+
+- Welcome Screen
+
+  This page should be encouragous to arouse user's willingness to join. Rather than a normal introduction, users are more inclined to something interesting, like getting an invitation and playing an significant role. If they find themselves being invited as an Experience Officer to a survey, it would be incentive. Even better, they can also be informed to be rewarded in the end if they complete very question. 
+  
+- Basic Questions
+  
+  Before asking people direct questions about the website, basic questions (age, gender, salary...) are useful for us to build personas and find out relationship among user's identity, consuming habits, and opinions. 
+  
+  In order to not make users feel be offended, they are provided with option "Not applicable"
+  
+- Relevant Questions
+ 
+  Here listed are questions based on the demo data sheet. The questions are simple and neutral, which are easy for users to decide.
+  
+- Feedback
+
+  The page includes "thank you" and open question about how the user feel about this survey.
+  
+- Reward
+
+  For those who finish the survey completely, they can be awarded in the end. 
+
+![Information Architecture](https://github.com/danyao730/Wirecraft-test-7---9/blob/master/membership%20questionnaire%20.png?raw=true)
+
+### Wireframe
+
+Here is the wireframe and basic interaction file: https://www.figma.com/file/Yzx6KEvuIwW4Qf9OdTs0Erei/Untitled?node-id=0%3A1
+
+#### Pick and Proceed
+
+Rather than to make user pick the option and then click "Next" button, to proceed once the user select can shorten the consuming time, which will reduce people's anxiety for wasting time.
+
+#### Progress Bar
+
+Besides the survey, a progress bar is necessary to inform users about how long it would take to complete this survey, or the number of questions left to keep them informed and also slightly reduce the chances of dropping off.
+
+#### card-like button
+
+Providing users with card-like button with option text on it can make the interface concise and easy to read, and then facilitate users' making choices. 
 
 
-![Information Architecture](membership questionnaire .png)
 
 
 

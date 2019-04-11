@@ -24,7 +24,7 @@ Based on the demo data sheet, I set up my own basic information architecture.
 ### Information Architecture
 
 
-![Information Architecture](https://octodex.github.com/images/yaktocat.png)
+![Information Architecture](membership questionnaire .png)
 
 
 

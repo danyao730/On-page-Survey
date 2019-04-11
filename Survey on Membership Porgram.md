@@ -52,7 +52,7 @@ There are 5 major parts in the architecture: Welcome Screen, Basic Questions, Re
  
  If people choose YES, we can naturally follow the question " How do you know about it?".
  
- By investigating on Netease Yanxuan (online), Starbucks and Sisyphe bookshop's membership program, we can find out companies like those are positivly promoting their programs with advertisement on Membership Benifits(freeshipping, exclusive sales and meetups, etc.), coupon and gifts. In this case, we can put the assumption as our options into the survey, and see if it can be validated by asking people "what is the most attractive?"， "what is the most reason to be a member？" and 
+ By investigating on Netease Yanxuan (online), Starbucks and Sisyphe bookshop's membership program, we can find out companies like those are positivly promoting their programs with advertisement on Membership Benifits(freeshipping, exclusive sales and meetups, etc.), coupon and gifts. In this case, we can put the assumption as our options into the survey, and see if it can be validated by asking people "what is the most attractive?"， "what is the most reason to be a member？" and so forth.
   
 
   ### 4. Feedback

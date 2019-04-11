@@ -50,7 +50,9 @@ There are 5 major parts in the architecture: Welcome Screen, Basic Questions, Re
   
   As for the screenerm,we can ask them "Do you know about our membership program?" at first to filter user. The first way to ask is to encourage users to share their ideas about it and something related. No matter what people choose, even "NO", they will feel not being excluded. 
  
-  By investigations on Netease Yanxuan (online), Starbucks and Sisyphe bookshop's membership program, the business side seems to positivly promote their program with advertisement of Membership Benifits(freeshipping, exclusive sales and meetups, etc.), coupon and gifts. We can put the assumption as our option into the survey, and see if it can be validated.
+ If people choose YES, we can naturally follow the question " How do you know about it?".
+ 
+ By investigating on Netease Yanxuan (online), Starbucks and Sisyphe bookshop's membership program, we can find out companies like those are positivly promoting their programs with advertisement on Membership Benifits(freeshipping, exclusive sales and meetups, etc.), coupon and gifts. In this case, we can put the assumption as our options into the survey, and see if it can be validated by asking people "what is the most attractive?"， "what is the most reason to be a member？" and 
   
 
   ### 4. Feedback

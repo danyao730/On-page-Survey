@@ -42,7 +42,9 @@ There are 5 major parts in the architecture: Welcome Screen, Basic Questions, Re
   ### Program - Direct Questions
 
   
-  As for membership program, we need to know the condition of channel and product itself. So the structure would be 
+  As for membership program, we need to know the condition of channel and product itself. 
+  
+  So the structure would be :
   
   **Screener - How to make the program known better - How to motivate people's engagement**  
   

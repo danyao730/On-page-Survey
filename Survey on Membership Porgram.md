@@ -11,9 +11,9 @@ From the client side, what we should help them is to establish the basic persona
 
 Before designing the questionnare, there are 4 creeds to stick to:
 
--Simple
--Neutral
--Fluent
--Incentive
+  - Simple
+  - Neutral
+  - Fluent
+  - Incentive
 
 

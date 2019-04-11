@@ -8,6 +8,7 @@ In order to get basic information we want their basic peronas, habitat on member
 
 ## Questionnaire
 From the client side, what we should help them is to establish the basic persona of their users(age, gender, region, salary, education). What's more, as on membership program, the habitat of consuming and user's perference are quiet important. 
+
 Before designing the questionnare, there are 4 creeds to stick to:
 -Simple
 -Neutral

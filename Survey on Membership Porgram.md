@@ -7,7 +7,7 @@ Style of survey varies depending on different questions and feedback client want
 
 ## Research
 
-I conducted a quick Competitive Anaysis on current products as Survey.js, Surveymonkey, Typeform , Surveygizmo (mainly for enterprise), Usertesting and UsabilityHub by setting up a matrix tool to compare some key information about these products. The matrix includes **Direct Competitor** ( Surveymonkey, Typeform , Surveygizmo), **Indirect Competitor** (Usertesting and UsabilityHub) and **Influencers** (as design reference on interaction or visualization) in Y axis and comparable factors like **URL of website, Purpose of Product, Target Audience, Strength and Weekness** in X axis. 
+I conducted a quick Competitive Anaysis on current products as Survey.js, Surveymonkey, Typeform , Surveygizmo (mainly for enterprise), Usertesting and UsabilityHub by setting up a matrix tool to compare some key information about these products. The matrix includes **Direct Competitor** ( Surveymonkey, Typeform , Surveygizmo), **Indirect Competitor** (Usertesting and UsabilityHub) and **Influencers** (Adobe Portfolio, as design reference on interaction or visualization) in Y axis and comparable factors like **URL of website, Purpose of Product, Target Audience, Strength and Weekness** in X axis. 
 
 By competative analysis, here I summarized some common advantages of these products:
 
@@ -63,25 +63,7 @@ There are 4 major steps in the architecture from user side: **enter welcome scre
  If people choose YES, we can naturally follow the question " How do you know about it?".
  
  By investigating on Netease Yanxuan (online), Starbucks and Sisyphe bookshop's membership program, we can find out companies like those are positivly promoting their programs with advertisement on Membership Benifits(freeshipping, exclusive sales and meetups, etc.), coupon and gifts. In this case, we can put the assumption as our options into the survey, and see if it can be validated by asking people "what is the most attractive?"， "what is the most reason to be a member？" and so forth.
-  
-  #### Different Question Types 
 
-   Asking people direct questions about the website, basic questions (age, gender, salary...) are useful for us to build personas and find out relationship among user's identity, consuming habits, and opinions. We can provide client with question type options to choose.
-   
-  ![question types](https://github.com/danyao730/Wirecraft-test-7---9/blob/master/WX20190412-161240@2x.png?raw=true)
-  
- #### Question Banks
- 
- To optimize the survey experience, a question bank can make people think less.
- 
- ![question bank](https://github.com/danyao730/Wirecraft-test-7---9/blob/master/WX20190412-140055@2x.png?raw=true)
- 
- #### Answer
- 
- There are multiselect options, single options and open text area, etc. 
- 
- ![anwer types](https://github.com/danyao730/Wirecraft-test-7---9/blob/master/WX20190412-161539@2x.png?raw=true)
-  
   
   ### 4. Feedback
 
@@ -115,17 +97,48 @@ Here is the wireframe sampleof the assumed survey : https://www.figma.com/file/Y
   Providing users with card-like button with option text on it can make the interface concise and easy to read, and then facilitate users' making choices. 
   
 
-### Client side
+## Client side
 
 There are 5 major steps in the architecture from client side: **input requirement - pick a logic flow - form a survey from modules - preview and establish - analyze result"
 
-  
-  #### Logic Flow
+ ### Requirement
+ 
+ A starter screen can help to establish basic survey type
+ 
+ ![requirement](https://github.com/danyao730/Wirecraft-test-7---9/blob/master/WX20190412-140055@2x.png?raw=true)
+ 
+ 
+ ### Logic Flow
   
   A good logic flow can better **participation rate** and improve the **result's accuracy**. According to fields of the survey, recommendation on logic flows can be provided.
   
  ![what do you want to survey](https://github.com/danyao730/Wirecraft-test-7---9/blob/master/WX20190412-140055@2x.png?raw=true)
+ 
+   
+  ### Different Question Types 
 
+   Asking people direct questions about the website, basic questions (age, gender, salary...) are useful for us to build personas and find out relationship among user's identity, consuming habits, and opinions. We can provide client with question type options to choose.
+   
+  ![question types](https://github.com/danyao730/Wirecraft-test-7---9/blob/master/WX20190412-161240@2x.png?raw=true)
+  
+ #### Question Banks
+ 
+ To optimize the survey experience, a question bank can make people think less.
+ 
+ 
+ ### Answer
+ 
+ There are multiselect options, single options and open text area, etc. 
+ 
+ ![anwer types](https://github.com/danyao730/Wirecraft-test-7---9/blob/master/WX20190412-161539@2x.png?raw=true)
 
+  ### Feedback from users
+
+  Client can view the result in the survey tool and adjust the survey anytime.
+  
+  
+  ## Wireframe of Survey Tool 
+  
+  Through the research, I built [a basic structure of the survey tool](https://www.figma.com/file/HEBazaFgiOZh6o3CWxArWCP0/Untitled?node-id=2%3A19) on website.
 
 
